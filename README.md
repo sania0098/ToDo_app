@@ -1,16 +1,9 @@
-# prsenentaion_firebase
+# Todo app 
 
-A new Flutter project.
+Its a simple and intuitive task management tool designed to help users organize their daily activities efficiently. It provides a clean interface to add, edit, and track tasks, making it easy to stay productive.
 
-## Getting Started
+## see from here
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Todo app](https://github.com/sania0098/ToDo_app/tree/master/lib)
