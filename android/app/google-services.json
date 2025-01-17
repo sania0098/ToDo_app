@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120713953249",
+    "project_id": "presenfirebase",
+    "storage_bucket": "presenfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120713953249:android:930c0bd210575f77b35ca0",
+        "android_client_info": {
+          "package_name": "com.example.prsenentaion_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzIIjJXqD6IPPxxuFheYRToL8K4Hu-ork"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
